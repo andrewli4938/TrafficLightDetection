@@ -4,10 +4,10 @@ val: images/val
 test: images/test
 
 classes:
-	0: stop
-	1: stopLeft
-	2: warning
-	3: warningLeft
-	4: go
-	5: goForward
-	6: goLeft
+  0: stop
+  1: stopLeft
+  2: warning
+  3: warningLeft
+  4: go
+  5: goForward
+  6: goLeft
